@@ -52,6 +52,7 @@ fun MyTextField() {
         value = textValue.value,
         onValueChange = {
             textValue.value = it
+
         },
     )
 }
