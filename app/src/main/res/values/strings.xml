@@ -22,5 +22,9 @@
     <string name="first">первый</string>
     <string name="second"> второй</string>
     <string name="third">третий</string>
+    <string name="android" />
+    <string name="kotlin" />
+    <string name="swift" />
+    <string name="ios" />
 
 </resources>
