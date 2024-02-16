@@ -5,9 +5,10 @@
     <string name="set_button">выбрать</string>
     <string name="set_text">новое представление</string>
     <string name="button_view_text">Представление с текстом</string>
-    <string name="button_row">Колонка</string>
-    <string name="button_column">Контейнер</string>
+    <string name="button_row">Строка</string>
+    <string name="button_column">Колонка</string>
     <string name="button_box">Бокс</string>
+    <string name="button_surface">Поверхность</string>
     <string name="button_buttons">Кнопки</string>
     <string name="button_textField">Ввод текста</string>
     <string name="button_progress">Прогрессбар</string>
