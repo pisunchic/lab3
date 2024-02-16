@@ -7,6 +7,7 @@
     <string name="button_view_text">Представление с текстом</string>
     <string name="button_row">Колонка</string>
     <string name="button_column">Контейнер</string>
+    <string name="button_box">Бокс</string>
     <string name="button_buttons">Кнопки</string>
     <string name="button_textField">Ввод текста</string>
     <string name="button_progress">Прогрессбар</string>
