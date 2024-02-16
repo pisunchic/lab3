@@ -10,6 +10,8 @@
     <string name="button_box">Бокс</string>
     <string name="button_surface">Поверхность</string>
     <string name="button_scaffold">Эшафот</string>
+    <string name="button_menu">Меню</string>
+    <string name="set_tittle">MyComposeApp</string>
     <string name="button_buttons">Кнопки</string>
     <string name="button_textField">Ввод текста</string>
     <string name="button_progress">Прогрессбар</string>

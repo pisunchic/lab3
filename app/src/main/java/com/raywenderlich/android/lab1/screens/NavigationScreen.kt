@@ -41,6 +41,7 @@ fun NavigationScreen() {
             NavigationButton(stringResource(id = R.string.button_scaffold), Screen.Scaffold)
 
 
+
         }
     }
 }
