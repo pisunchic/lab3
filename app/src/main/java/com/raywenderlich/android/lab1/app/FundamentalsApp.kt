@@ -28,7 +28,6 @@ fun FundamentalsApp() {
                 is Screen.List -> ListScreen()
                 is Screen.Grid -> GridScreen()
 
-
             }
         }
     }

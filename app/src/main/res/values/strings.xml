@@ -23,10 +23,12 @@
     <string name="first">первый</string>
     <string name="second"> второй</string>
     <string name="third">третий</string>
-    <string name="android">Усовершенствованная архитектура Android</string>
+    <string name="android">Android</string>
     <string name="kotlin">Изучение Kotlin</string>
     <string name="kotlin_coroutines">Корутины в Kotlin</string>
-    <string name="swift" />
-    <string name="ios" />
+    <string name="swift" >swift</string>
+    <string name="ios" >ios</string>
+    <string name="list" >List</string>
+
 
 </resources>
