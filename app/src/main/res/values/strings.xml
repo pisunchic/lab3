@@ -29,6 +29,7 @@
     <string name="swift" >swift</string>
     <string name="ios" >ios</string>
     <string name="list" >List</string>
+    <string name="grid_icon" >Grid</string>
 
 
 </resources>
